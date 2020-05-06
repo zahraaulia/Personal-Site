@@ -1,0 +1,162 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweathere", serif;
+  color: #235952;
+}
+
+h1{
+  margin: 0 auto;
+  padding-top: 55px;
+  padding-bottom: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  color: #024249;
+}
+
+h2{
+    margin: 5px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5em;
+    padding-top: 0px;
+  }
+
+h3{
+  margin: 5px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+}
+
+h4{
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 30px;
+}
+
+.footer-menu{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 30px;
+}
+
+
+p{
+  padding: 15px, 30px, 15px, 30px;
+  font-size: 1.2em;
+}
+
+div{
+}
+
+.top-div{
+  margin: 0;
+  background-color: #ffebd9;
+  position: relative;
+  height: 750px;
+  padding-top:15px;
+}
+
+.profile{
+  padding-bottom: 30px;
+  padding-top: 20px;
+  width: 50%;
+  margin: 10px auto 10px auto;
+  line-height: 2;
+  text-align: middle;
+}
+
+.Profil-row{
+  width: 90%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 40px;
+}
+
+.bottom-div{
+  background-color: #ffebd9;
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  margin-bottom: 100px;
+}
+
+img{
+  position: relative;
+}
+
+.work{
+  width: 625px;
+  height: 355px;
+  padding-top: 75px;
+}
+.lamptop{
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  right: 200px;
+  top: 75px;
+}
+
+.lamp{
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 200px;
+  bottom: 390px;
+}
+
+.pict{
+  border-radius: 60%;
+  padding: 30px;
+  height: 350px;
+  width: 350px;
+}
+
+.minipict{
+  position: absolute;
+  border-radius: 60%;
+  height: 75px;
+  width: 75px;
+  left: 25px;
+  top: 15px;
+  border-style: solid;
+  border-color: #235952;
+  border-width: thick;
+}
+
+.leftProfile-img{
+  width: 30%;
+  float: left;
+  margin-right: 10%;
+}
+
+.rightProfile-img{
+  width: 25%;
+  float: right;
+  margin-left: 10%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ffebd9;
+  border-spacing: 10%;
+  border-width: 7px;
+  width: 5%;
+  padding-bottom: 50px;
+}
+
+.hr-footer{
+  border-style: none;
+  border-top-style: solid;
+  border-color: #235952;
+  border-spacing: 10%;
+  border-width: 2px;
+  width: 200px;
+
+}
+
+.dist{
+  visibility: hidden;
+}
